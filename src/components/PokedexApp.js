@@ -8,7 +8,7 @@ function PokedexApp() {
         <div>
             <div class="flex flex-wrap justify-center space-x-4 flex-shrink-0 py-5 bg-red-600 text-white">
                 <div>
-                    <img className="h-10 md:w-10" src="/logo.png" alt="Man looking at item at a store"/>   
+                    <img className="h-10 md:w-10" src="/logo.png" alt="PokeCards"/>   
                 </div> 
                 <div>
                     <h1>PokeCards</h1>
